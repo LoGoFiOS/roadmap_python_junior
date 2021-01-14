@@ -40,30 +40,30 @@
 - [Несколько полезных советов как практиковаться в Python](https://habr.com/ru/post/478900/)
 
 ### 3.2 Изучение Linux
-- [ Примеры *nix](http://najomi.org/_nix)
+- [Примеры *nix](http://najomi.org/_nix)
 - [Bash-скрипты](https://habr.com/ru/company/ruvds/blog/325522/)
 
 ### 3.3 Изучение Vim
 - [ Как пользоваться Vim](http://najomi.org/vim)
 
 ### 3.4 Про виртуальное окружение
-- [ Что это + настройка](https://python-scripts.com/virtualenv)
+- [Что это + настройка](https://python-scripts.com/virtualenv)
 
 ### 3.5 Изучение Git
-- [ Крутая и бесплатная онлайн книга](https://git-scm.com/book/ru/v2)
+- [Крутая и бесплатная онлайн книга](https://git-scm.com/book/ru/v2)
 - [Бесплатный курс](https://githowto.com/ru)
 
 ### 3.6 Собеседование/Поиск работы
-- [ Что работодатели ждут от Junior Python-разработчика](https://tproger.ru/articles/what-junior-python-dev-should-know/)
-- [ Обширный обзор собеседований по Python. Советы и подсказки](https://habr.com/ru/post/439576/)
-- [ Как проходит собеседование начинающего разработчика на С++: что нужно знать и как подготовиться](https://habr.com/ru/company/yandex_praktikum/blog/533154/)
+- [Что работодатели ждут от Junior Python-разработчика](https://tproger.ru/articles/what-junior-python-dev-should-know/)
+- [Обширный обзор собеседований по Python. Советы и подсказки](https://habr.com/ru/post/439576/)
+- [Как проходит собеседование начинающего разработчика на С++: что нужно знать и как подготовиться](https://habr.com/ru/company/yandex_praktikum/blog/533154/)
 - [Как джуниор-разработчику найти работу ](https://vc.ru/flood/29126-kak-dzhunior-razrabotchiku-nayti-rabotu)
 - [Детальный разбор интервью для Junior Python Developer](https://habr.com/ru/post/458746/)
 
 ### 3.7 Изучение Docker
 - [Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/)
- 
-### Разное про Python
+
+### 3.8 Разное про Python
 - [Про scopes и namespace](https://realpython.com/python-scope-legb-rule/#using-enclosing-scopes-as-closures)
 - [Как работает yield](https://habr.com/ru/post/132554/)
 
@@ -79,5 +79,16 @@
 - Курсы от московского сообщества [Python](https://learn.python.ru/). Длительность 2 мес. (!), есть оффлайн вариант.
 -  [Практический курс парсинга сайтов на Python](https://www.patreon.com/posts/karta-kurs-na-30462246)
 
-## 6. Разное
+## 6. Источники информации
+
+- YouTube Блог [Диджитализируй!](https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
+
+  Архиполезный блог, очень рекомендую.
+
+- [Лекции](https://youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) по алгоритмам Тимофея Хирьянова.
+
+  Преподавать здоровски подаёт материал, смотреть одно удовольствие. У него есть лекции и по языку Python, но, возможно, после тех курсов, что я советую, покажется малоинформативным. 
+
+## 7. Разное
+
 - Пошаговый [визуализатор](http://www.pythontutor.com/) кода
