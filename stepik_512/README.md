@@ -595,5 +595,7 @@ print(re.match(pattern, string)) # span=(0, 3) match = aba
 print(re.findall(pattern, string)) # [aba, aba]
 ```
 
+## Обзорно об интернете. Requests
 
+Основа интернета – обмен данными между клиентом и сервером по различным протоколам. URL (uniform resource locator) – как и где можно получить данные (ресурс). 
 
