@@ -599,3 +599,59 @@ print(re.findall(pattern, string)) # [aba, aba]
 
 Основа интернета – обмен данными между клиентом и сервером по различным протоколам. URL (uniform resource locator) – как и где можно получить данные (ресурс). 
 
+Пример. Формируем список всех доменов с html-страницы:
+
+```python
+import re
+import requests
+
+# Получаем url
+url = input()
+
+# ищем ссылки внутри тегов <a>
+links = re.compile(r"<a.*href ?= ?['\"\t](https?://|ftp://)?\b([\w.-]+)\b")
+html = requests.get(url).text
+ans = sorted(set(url[1] for url in links.findall(html)))
+for i in ans:
+    print(i)
+```
+
+## CSV, JSON
+
+CSV – табличный формат. Здесь значения разделённые запятой. 
+
+```python
+import csv
+
+with open("file.csv") as f:
+    reader = csv.reader(f)
+    for row in reader:
+        print(row)
+        
+#file.csv
+first name,last name,module1,module2
+Nina,Cool,100,"90,2" # 90,2 считается 1-м эл-ом
+Niko,Nice,90,89
+```
+
+JSON – значения хранятся в виде **ключ: значение.** 
+
+## API
+
+Предоставление инструментов для работы с данными.
+
+## XML
+
+XML данные представляются в виде дерева:
+
+```python
+from xml.etree import ElementTree
+
+tree = ElementTree.parse("file.xml")
+root = tree.getroot()
+
+# перебор всех элементов с тегом tag:
+for el in root.iter("teg"):
+    print(el)
+```
+
