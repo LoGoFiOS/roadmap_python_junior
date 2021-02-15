@@ -45,7 +45,7 @@ async def get_phone_num(msg: types.Message, state: FSMContext):
 
 
 def register_user(dp: Dispatcher):
-    dp.register_message_handler(user_start, commands=["start"], state="*")
+    dp.register_message_handler(user_start, commands=["form"], state="*")
     dp.register_message_handler(get_name, state=GetInformation.waiting_name)
     dp.register_message_handler(get_email, state=GetInformation.waiting_email)
     dp.register_message_handler(get_phone_num, state=GetInformation.waiting_phone_num)
