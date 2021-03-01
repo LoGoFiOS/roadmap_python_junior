@@ -90,15 +90,16 @@
 - [Про scopes и namespace](https://realpython.com/python-scope-legb-rule/#using-enclosing-scopes-as-closures)
 - [Как работает yield](https://habr.com/ru/post/132554/)
 - Про декораторы [раз](https://tirinox.ru/python-decorators/) и [два](https://tirinox.ru/parametric-decorator/)
-- Asyncio [раз](https://webdevblog.ru/obzor-async-io-v-python-3-7/), [два](https://realpython.com/python-concurrency/)
+- Asyncio [раз](https://webdevblog.ru/obzor-async-io-v-python-3-7/), [два](https://realpython.com/python-concurrency/). Ещё [одна](https://tproger.ru/articles/asynchronous-programming/)
 
 #### !Python
 
 * [Как пользоваться Vim](http://najomi.org/vim)
 * Виртуальное окружение, [что это + настройка](https://python-scripts.com/virtualenv)
 * [Git](https://githowto.com/ru) шаг за шагом
-* [Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/)
+* [Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/), [Docker Compose](https://habr.com/ru/company/ruvds/blog/450312/), "несерьёзная" [статья](https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/#what_is_docker_compose)
 * Регулярные выражения. [Статья](https://habr.com/ru/post/349860/), онлайн [редактор](https://regex101.com/#python)
+* [Документация](https://docs.aiogram.dev/en/latest/) Aiogram.
 
 ### 3.4  Алгоритмы
 

@@ -2,3 +2,5 @@
 **/.idea/
 **/__pycache__
 **venv/
+**task_final/
+.env
