@@ -36,11 +36,21 @@ docker ps
 docker kill [name]
 docker rm [name]
 
-# Просмотр и удаление образов
-docker images
+# Просмотр и удаление образов. [id] МБ только первые символы
+docker images ls
 docker rmi [id]
 
+# Просмотр и удаление контейнеров. [id] МБ только первые символы
+docker container ls -a
+docker rmi [id]
+
+# Удаление всего неиспользуемого, остановленого
+# Если добавить -a, то удалится всё, что не используется ни в одном контейнере
+# Можно примененять и к image, container, volume, network
+docker system prune
+
 #  Войти в контейнер
+docker exec -it [container_name]
 
 # Перезапуск демона Docker со всеми контейнерами
 systemctl enable docker.service
@@ -71,7 +81,7 @@ docker-compose run [service_name] bash
 # Подкючиться к базе. Host из Docker - название контейнера в Docker-compose
 psql --host=[host] --username=[user] --dbname=[database_name]
 
-# Остановить и удалить образы
+# Остановить и удалить образ
 docker-compose down
 
 ```
@@ -83,7 +93,9 @@ docker-compose down
 ## Работа с Git
 
 ```bash
-# создание репозитория
+# создание репозитория. Создать директорию, затем:
+git create
+
 
 ```
 

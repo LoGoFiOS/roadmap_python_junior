@@ -1,3 +1,0 @@
-asyncpg
-aiogram>=2.11.2,<3.0
-python-dotenv

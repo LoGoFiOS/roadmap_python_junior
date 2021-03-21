@@ -38,11 +38,11 @@
 
 * **Разработка Telegram ботов**
 
-  Период обучения: 02.21 - 
+  Период обучения: 02.21 - 03.21
 
-  Следующей темой выбрал создание ботов. Планирую разобраться с asyncio, декораторами, aiogram, БД, настройкой серверов, Docker. Создам пару ботов. Плюс периодическая практика – решение задач. 
+  Прошёл курс [разработка Telegram ботов на Python](https://www.udemy.com/course/aiogram-python/). Так же пользовался материалами [учебника](https://mastergroosha.github.io/telegram-tutorial-2/) от Groosha. 
 
-  Начал с курса [Разработка Telegram ботов на Python](https://www.udemy.com/course/aiogram-python/). Так же пользуюсь материалами [учебника](https://mastergroosha.github.io/telegram-tutorial-2/) по созданию ботов Telegram
+  В процессе обучения было охвачено множество тем: asyncio (требует дальнейшего изучения), AioGram, БД (SQLite, Postge, Redis), Docker, Docker-compose, настройка сервера, работа с api QIWI для создания системы платежей. Финальный проект – бот интернет-магазин. Его исходный код [открыт](https://github.com/LoGoFiOS/Wizard_lavka_telegram_bot).
 
 * **to be continued...**
 
