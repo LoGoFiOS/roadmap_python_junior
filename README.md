@@ -36,13 +36,17 @@
 
   Начал решать задачи на [CodeWars](https://www.codewars.com/users/LoGoFiOS) и [LeetCode](https://leetcode.com/logofios/). Создал [страничку](https://logofios.github.io/) им. себя.
 
-* **Разработка Telegram ботов**
+* **Курс Разработка Telegram ботов**
 
   Период обучения: 02.21 - 03.21
 
-  Прошёл курс [разработка Telegram ботов на Python](https://www.udemy.com/course/aiogram-python/). Так же пользовался материалами [учебника](https://mastergroosha.github.io/telegram-tutorial-2/) от Groosha. 
+  Прошёл курс [разработка Telegram ботов на Python](https://www.udemy.com/course/aiogram-python/). В процессе обучения пользовался материалами [учебника](https://mastergroosha.github.io/telegram-tutorial-2/) от Groosha. 
 
-  В процессе обучения было охвачено множество тем: asyncio (требует дальнейшего изучения), AioGram, БД (SQLite, Postge, Redis), Docker, Docker-compose, настройка сервера, работа с api QIWI для создания системы платежей. Финальный проект – бот интернет-магазин. Его исходный код [открыт](https://github.com/LoGoFiOS/Wizard_lavka_telegram_bot).
+  Охватил множество тем: asyncio (требует дальнейшего изучения), AioGram, БД (SQLite, PostgeSQL, Redis), Docker, Docker-compose, настройка сервера, работа с api QIWI для создания системы платежей. Финальный проект – бот интернет-магазин. Его исходный код [открыт](https://github.com/LoGoFiOS/Wizard_lavka_telegram_bot), а работающий бот доступен [здесь](https://t.me/WizardLavka_bot/start).
+
+* **Курс А. Карпова "Аналитик данных"**
+
+  Заинтересовал [курс Карпова](https://karpov.courses/analytics) по аналитике данных, да и сама сфера по анализу данных мне интересна (здесь я смогу применять опыт текущей работы и учёбы в ВУЗе). Прошёл за пару дней [демо-версию](https://stepik.org/course/74457/syllabus), остался доволен (в конце ещё и скидка 10% даётся), теперь хочу записаться на полную версию. Скоро начнутся 5 месяцев учёбы.  
 
 * **to be continued...**
 
@@ -97,7 +101,7 @@
 * [Как пользоваться Vim](http://najomi.org/vim)
 * Виртуальное окружение, [что это + настройка](https://python-scripts.com/virtualenv)
 * [Git](https://githowto.com/ru) шаг за шагом
-* [Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/), [Docker Compose](https://habr.com/ru/company/ruvds/blog/450312/), "несерьёзная" [статья](https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/#what_is_docker_compose)
+* [Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/), [Docker Compose](https://habr.com/ru/company/ruvds/blog/450312/), "несерьёзная" [статья](https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/#what_is_docker_compose), [очистка](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/) памяти от неиспользуемых контейнеров, образов и пр., [выгрузка и загрузка](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database) данных БД.
 * Регулярные выражения. [Статья](https://habr.com/ru/post/349860/), онлайн [редактор](https://regex101.com/#python)
 * [Документация](https://docs.aiogram.dev/en/latest/) Aiogram.
 
