@@ -1,4 +1,4 @@
-Здесь я выкладываю материалы, которые накапливаются у меня в процессе самообучения профессии Python developer (junior).
+Здесь я выкладываю материалы, которые накапливаются у меня в процессе становления "вайтишником".
 
 ------------
 
@@ -20,15 +20,15 @@
 
 ## 1. Мой путь
 
-* **Курс "введение в Linux"**
+* **Курс "Введение в Linux"**
 
-  Период учёбы: 12.20 - 12.20, [ссылка](https://stepik.org/course/73/)
+  Период обучения: 12.20 - 12.20, [ссылка](https://stepik.org/course/73/)
 
   Первым делом прошёл курс по Linux, т.к. решил выбрать эту ОС основной. В курсе материал подаётся достаточно, для начинающих, глубоко, а полученных знаний хватит, чтобы уверенно чувствовать себя в Linux. Затронуты такие полезные темы, как: **tmux, bash, vim, ssh**.
 
 * **Курс "Python: основы и применение"**
 
-  Период учёбы: 12.20 - 01.21, [ссылка](https://stepik.org/course/512/)
+  Период обучения: 12.20 - 01.21, [ссылка](https://stepik.org/course/512/)
 
   Объясняются (и очень хорошо!) фундаментальные вещи, без которых невозможно понять философию Python и, соответственно, писать эффективный код.
 
@@ -42,11 +42,15 @@
 
   Прошёл курс [разработка Telegram ботов на Python](https://www.udemy.com/course/aiogram-python/). В процессе обучения пользовался материалами [учебника](https://mastergroosha.github.io/telegram-tutorial-2/) от Groosha. 
 
-  Охватил множество тем: asyncio (требует дальнейшего изучения), AioGram, БД (SQLite, PostgeSQL, Redis), Docker, Docker-compose, настройка сервера, работа с api QIWI для создания системы платежей. Финальный проект – бот интернет-магазин. Его исходный код [открыт](https://github.com/LoGoFiOS/Wizard_lavka_telegram_bot), а работающий бот доступен [здесь](https://t.me/WizardLavka_bot/start).
+  Охватил множество тем: **asyncio** (требует дальнейшего изучения), **Aiogram**, БД (**SQLite**, **PostgeSQL**, **Redis**), **Docker**, **Docker-compose**, настройка сервера, работа с api QIWI для создания системы платежей. Финальный проект – бот интернет-магазин. Его исходный код [открыт](https://github.com/LoGoFiOS/Wizard_lavka_telegram_bot), а работающий бот доступен [здесь](https://t.me/WizardLavka_bot/start).
 
 * **Курс А. Карпова "Аналитик данных"**
 
-  Заинтересовал [курс Карпова](https://karpov.courses/analytics) по аналитике данных, да и сама сфера по анализу данных мне интересна (здесь я смогу применять опыт текущей работы и учёбы в ВУЗе). Прошёл за пару дней [демо-версию](https://stepik.org/course/74457/syllabus), остался доволен (в конце ещё и скидка 10% даётся), теперь хочу записаться на полную версию. Скоро начнутся 5 месяцев учёбы.  
+  Период обучения: 04.21 - 
+
+  Записался на [курс Карпова](https://karpov.courses/analytics) по аналитике данных. Прошёл за пару дней [демо-версию](https://stepik.org/course/74457/syllabus), остался доволен (в конце ещё и скидка 10% даётся). В ближайшие месяцы буду заниматься этой областью.
+
+  **Материалы по аналитике данных решил собирать в отдельном [репозитории](https://github.com/LoGoFiOS/data_analyst).**
 
 * **to be continued...**
 
@@ -103,7 +107,6 @@
 * [Git](https://githowto.com/ru) шаг за шагом
 * [Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/), [Docker Compose](https://habr.com/ru/company/ruvds/blog/450312/), "несерьёзная" [статья](https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/#what_is_docker_compose), [очистка](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/) памяти от неиспользуемых контейнеров, образов и пр., [выгрузка и загрузка](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database) данных БД.
 * Регулярные выражения. [Статья](https://habr.com/ru/post/349860/), онлайн [редактор](https://regex101.com/#python)
-* [Документация](https://docs.aiogram.dev/en/latest/) Aiogram.
 
 ### 3.4  Алгоритмы
 
@@ -132,13 +135,13 @@
 
 Для практики подходит как решение задачек, так и создание личных проектов.
 
-- Вопросы на [stackoverflow](https://ru.stackoverflow.com/questions/tagged/python)
-- [CodeWars](https://www.codewars.com/)
 - [Leetcode](https://leetcode.com/problemset/all/)
-- [Sololearn](https://www.sololearn.com/)
+- [CodeWars](https://www.codewars.com/)
+- Вопросы на [stackoverflow](https://ru.stackoverflow.com/questions/tagged/python)
 
 ## 5. Курсы
 
-- Курсы от московского сообщества [Python](https://learn.python.ru/). Длительность 2 мес. (!), есть оффлайн вариант.
+- Курсы от московского сообщества [Python](https://learn.python.ru/). Длительность 2 мес. (!), есть оффлайн вариант. Хотел пойти, но передумал из-за короткого срока обучения. 
 - [Практический курс парсинга сайтов на Python](https://www.patreon.com/posts/karta-kurs-na-30462246)
 - [Полный курс по веб разработке с нуля на Python + Django ](https://www.udemy.com/course/python-pythondjango/)
+
