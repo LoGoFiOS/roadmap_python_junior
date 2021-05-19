@@ -104,7 +104,7 @@
 
 * [Как пользоваться Vim](http://najomi.org/vim)
 * Виртуальное окружение, [что это + настройка](https://python-scripts.com/virtualenv)
-* [Git](https://githowto.com/ru) шаг за шагом
+* [Git](https://githowto.com/ru) шаг за шагом, [ещё](https://learngitbranching.js.org/?locale=ru_RU)
 * [Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/), [Docker Compose](https://habr.com/ru/company/ruvds/blog/450312/), "несерьёзная" [статья](https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/#what_is_docker_compose), [очистка](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/) памяти от неиспользуемых контейнеров, образов и пр., [выгрузка и загрузка](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database) данных БД.
 * Регулярные выражения. [Статья](https://habr.com/ru/post/349860/), онлайн [редактор](https://regex101.com/#python)
 
